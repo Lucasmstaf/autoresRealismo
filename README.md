@@ -38,5 +38,3 @@ Quer ajudar a melhorar a aplicação? Fique à vontade para abrir um pull reques
 **#Fluminense #ForçaTricolor #Programação**
 * Crie uma seção de FAQ para responder às dúvidas mais comuns.
 * Mantenha o README atualizado à medida que o projeto evolui.
-
-Com esse README descontraído, você vai atrair mais pessoas para o seu projeto e facilitar a colaboração.
