@@ -36,5 +36,3 @@ Quer ajudar a melhorar a aplicação? Fique à vontade para abrir um pull reques
 **Vamos juntos fazer essa torcida ainda mais apaixonada pelo Flu!** 🇭🇺
 
 **#Fluminense #ForçaTricolor #Programação**
-* Crie uma seção de FAQ para responder às dúvidas mais comuns.
-* Mantenha o README atualizado à medida que o projeto evolui.
